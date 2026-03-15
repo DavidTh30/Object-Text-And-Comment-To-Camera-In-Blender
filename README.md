@@ -6,3 +6,4 @@ Object, text, and comment to camera view in Blender
 - Object properties : Relations : Parent : Camera
 - Constraint properties :Damped Track : Z
 - Output properties: Metadata: Note + Burn into image
+- Thai front for Blender
